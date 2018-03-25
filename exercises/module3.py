@@ -1,3 +1,6 @@
+# Python OpenCV Computer Vision Training
+# Module 3: Object Detection
+
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2

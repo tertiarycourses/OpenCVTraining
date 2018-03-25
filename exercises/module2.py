@@ -1,3 +1,6 @@
+# Python OpenCV Computer Vision Training
+# Module 2: Basic OpenCV Operations
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt 
