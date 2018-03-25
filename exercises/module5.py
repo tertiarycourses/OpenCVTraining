@@ -1,8 +1,12 @@
+# Python OpenCV Computer Vision Training
+# Module 5: Machine Learning
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-# KNN 
+# K-Nearest Neighbour
+
 # Feature set containing (x,y) values of 25 known/training data
 trainData = np.random.randint(0,100,(25,2)).astype(np.float32)
 # Labels each one either Red or Blue with numbers 0 and 1

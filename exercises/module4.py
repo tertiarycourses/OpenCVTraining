@@ -1,3 +1,6 @@
+# Python OpenCV Computer Vision Training
+# Module 4: Feature and Face Detection
+
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
