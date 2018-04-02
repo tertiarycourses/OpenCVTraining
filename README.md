@@ -7,6 +7,9 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/opencv-computer-vision-training.html
 
+
+https://www.tertiarycourses.com.my/opencv-computer-vision-training-malaysia.html
+
 <p><strong>Module 1 Get Ready on OpenCV</strong></p>
 <ul>
 <li>What is OpenCV</li>
