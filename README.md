@@ -1,5 +1,5 @@
 # Python OpenCV Computer Vision Training
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Python OpenCV Computer Vision Training](https://www.tertiarycourses.com.sg/opencv-computer-vision-training.html) course. 
 
